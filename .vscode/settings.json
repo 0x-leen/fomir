@@ -1,5 +1,0 @@
-{
-  "search.followSymlinks": false,
-  "cSpell.enableFiletypes": ["solidity"],
-  "rust-analyzer.linkedProjects": ["./apps/desktop/src-tauri/Cargo.toml"]
-}
